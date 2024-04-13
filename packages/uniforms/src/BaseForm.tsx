@@ -101,7 +101,7 @@ export class BaseForm<
     // will raise it in the newer versions.
     // https://github.com/facebook/react/pull/22114
     // https://github.com/vazco/uniforms/issues/1152
-    this.setState = () => {};
+    // this.setState = () => {}; - Removed in React 18, Next 14
   }
 
   delayId?: ReturnType<typeof setTimeout> | undefined;
