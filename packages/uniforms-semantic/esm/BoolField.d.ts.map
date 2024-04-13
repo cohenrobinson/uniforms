@@ -1,0 +1,1 @@
+{"version":3,"file":"BoolField.d.ts","sourceRoot":"","sources":["../src/BoolField.tsx"],"names":[],"mappings":"AACA,OAAc,EAAE,GAAG,EAAE,MAAM,OAAO,CAAC;AACnC,OAAO,EAAgC,cAAc,EAAE,MAAM,UAAU,CAAC;AAExE,oBAAY,cAAc,GAAG,cAAc,CACzC,OAAO,EACP,cAAc,EACd;IAAE,QAAQ,CAAC,EAAE,GAAG,CAAC,gBAAgB,CAAC,CAAC;IAAC,aAAa,CAAC,EAAE,MAAM,CAAA;CAAE,CAC7D,CAAC;;AA0DF,wBAAoE"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"LongTextField.d.ts","sourceRoot":"","sources":["../src/LongTextField.tsx"],"names":[],"mappings":"AACA,OAAc,EAAE,GAAG,EAAE,MAAM,OAAO,CAAC;AACnC,OAAO,EAAgB,cAAc,EAAE,MAAM,UAAU,CAAC;AAIxD,oBAAY,kBAAkB,GAAG,cAAc,CAC7C,MAAM,EACN,cAAc,EACd;IAAE,cAAc,CAAC,EAAE,MAAM,CAAC;IAAC,QAAQ,CAAC,EAAE,GAAG,CAAC,mBAAmB,CAAC,CAAA;CAAE,CACjE,CAAC;;AAqBF,wBAA4E"}
